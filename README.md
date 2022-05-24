@@ -78,7 +78,7 @@ DB_PASSWORD=123456
 ##### 1.4 Version
 `npm -v`  
 `php -v`
-#### 2. Install Laravel Breeze
+#### 2. Install Laravel ui
 `composer require laravel/ui`  
 `php artisan breeze:install`  
 `npm install`  
